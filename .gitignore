@@ -1,9 +1,6 @@
 # 忽略所有 Zone.Identifier 文件
 *.Zone.Identifier
 
-# 忽略所有 .txt 文件（无论在哪个目录）
-**/*.txt
-
 # 忽略所有 .pkl 文件
 **/*.pkl
 
